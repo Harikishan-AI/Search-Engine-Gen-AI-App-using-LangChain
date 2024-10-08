@@ -1,0 +1,10 @@
+arxiv
+wikipedia
+langchain
+langchain-community
+langchain-core
+ipykernel
+faiss-cpu
+langchain-groq
+streamlit
+duckduckgo-search
