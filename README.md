@@ -36,3 +36,21 @@ This project demonstrates a search-powered chatbot application built using Strea
 - Expand the set of tools and agents for more comprehensive query handling.
 - Add more robust error handling for parsing or retrieval issues.
 - Improve the UI/UX for a better interactive experience.
+
+Output:
+![{B0F0CAD9-586E-47B6-A8C7-9CA9F9D367B3}](https://github.com/user-attachments/assets/768b0c45-3cfb-4fb4-be3f-9e70f7cda425)
+
+![{FF0932CE-C499-4AC7-9499-03973DC5E3FD}](https://github.com/user-attachments/assets/82552529-7a89-4151-a1e5-9dbddba74004)
+
+![{04418A7A-7713-40AC-B34D-2DDE6A0639B2}](https://github.com/user-attachments/assets/56cac9bd-c88e-4188-ae67-f702f4ed3864)
+
+![{E6BC8629-B467-43F2-9E68-35AB9467957C}](https://github.com/user-attachments/assets/2521d2d7-9bde-489a-8d2a-d0b79c41a524)
+
+![{BEE7C624-13FC-408F-908B-441088133726}](https://github.com/user-attachments/assets/ac3e013b-bdf6-4c4f-9870-9fd9b75f8904)
+
+
+
+
+
+
+
