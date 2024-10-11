@@ -16,22 +16,6 @@ This project demonstrates a search-powered chatbot application built using Strea
 3. **Information Retrieval**: Based on the user's input, the agent dynamically selects the appropriate tools to fetch relevant data.
 4. **Real-Time Response**: The response, generated in real-time, is displayed within the chat, along with the agent's thought process and actions using `StreamlitCallbackHandler`.
 
-## Usage:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/search-engine-gen-ai.git
-   cd search-engine-gen-ai
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-3. Set your environment variables by adding your API keys to a .env file:
-   ```bash
-   GROQ_API_KEY=your_groq_api_key
-4. Run the Streamlit app:
-   ```bash
-   streamlit run app.py
-5. Enter your query in the chat input and watch the chatbot retrieve answers from Wikipedia, Arxiv, or DuckDuckGo.
-
 ## Future Enhancements:
 - Expand the set of tools and agents for more comprehensive query handling.
 - Add more robust error handling for parsing or retrieval issues.
